@@ -42,6 +42,27 @@ java -version
 Jalankan perintah berikut pada MySQL:
 
 ```bash
-CREATE DATABASE db_toko;
-USE db_toko;
+CREATE DATABASE UTS_pbo_db_toko;
+USE UTS_pbo_db_toko;
 ```
+
+📂 Membuat Tabel product
+
+```bash
+CREATE TABLE product (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nama VARCHAR(100),
+    harga DOUBLE,
+    stok INT,
+    tanggal_masuk DATETIME
+);
+```
+
+🔐 Konfigurasi User Database
+Aplikasi menggunakan konfigurasi default berikut:
+
+- Host : localhost
+- Port : 3306
+- Database : UTS_pbo_db_toko
+- Username : root
+- Password : (kosong)
