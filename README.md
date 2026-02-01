@@ -120,7 +120,8 @@ No suitable driver found for jdbc:mysql://... tidak akan muncul lagi.
 - Main → Entry point aplikasi
 
 👨‍💻 Author
-Nama : Jadirullah
-Mata Kuliah : Pemrograman Berorientasi Objek - ITTS
-Project : UAS PBO Java CRUD + JDBC
+- Nama : Jadirullah
+
+- Mata Kuliah : Pemrograman Berorientasi Objek - ITTS
+- Project : UAS PBO Java CRUD + JDBC
 
