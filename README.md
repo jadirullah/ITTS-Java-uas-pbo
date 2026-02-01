@@ -32,3 +32,13 @@ Untuk memastikan Java telah terpasang, jalankan perintah berikut di terminal:
 
 ```bash
 java -version
+
+
+2️⃣ Konfigurasi Database MySQL
+📂 Membuat Database
+
+Jalankan perintah berikut pada MySQL:
+
+```bash
+CREATE DATABASE db_toko;
+USE db_toko;
