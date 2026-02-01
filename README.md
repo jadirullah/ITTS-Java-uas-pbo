@@ -122,6 +122,4 @@ No suitable driver found for jdbc:mysql://... tidak akan muncul lagi.
 👨‍💻 Author
 
 - Nama : Jadirullah
-- Mata Kuliah : Pemrograman Berorientasi Objek - ITTS
-- Project : UAS PBO Java CRUD + JDBC
 
