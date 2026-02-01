@@ -12,5 +12,3 @@ public class Product extends BaseProduct {
         return harga + (harga * 0.10); // pajak default
     }
 }
-
-
